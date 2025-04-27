@@ -1,0 +1,210 @@
+{
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "IrGxWIJs5nJp3KD4D9IgjjAJZiY",
+      "id": "JvhxdXVE_qY",
+      "snippet": {
+        "publishedAt": "2022-08-30T16:06:10Z",
+        "channelId": "UCU3MN1JV8h7Bj5w0B03OswQ",
+        "title": "Rode Clone using HTML and Tailwind CSS",
+        "description": "I have created this Rode Clone using HTML and Tailwind CSS.  I have resolved the Rode website issue i.e is responsive. As you explore the Rode.com  website, you can check that their images are draggable; this happens when you directly put a CDN URL to the image tag. I have resolved these issues in my Paytm Clone. \n\nIf you liked it, click that like button and comment down that you liked it. \n\n\nsource code: https://github.com/Hs809/Rode-Clone\nlive link: https://rode-clone-by-hitesh-pal.netlify.app/\n\nYou can also check out my blogs: https://hiteshpal.hashnode.dev/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JvhxdXVE_qY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JvhxdXVE_qY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvhxdXVE_qY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JvhxdXVE_qY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JvhxdXVE_qY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hitesh Pal",
+        "tags": [
+          "#javascript",
+          "#education",
+          "#rodeclone",
+          "#clone",
+          "#rodemicrophones",
+          "#websiteclone",
+          "#Html",
+          "HTML",
+          "CSS",
+          "Tailwindcss",
+          "Tailwind",
+          "HTML5"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rode Clone using HTML and Tailwind CSS",
+          "description": "I have created this Rode Clone using HTML and Tailwind CSS.  I have resolved the Rode website issue i.e is responsive. As you explore the Rode.com  website, you can check that their images are draggable; this happens when you directly put a CDN URL to the image tag. I have resolved these issues in my Paytm Clone. \n\nIf you liked it, click that like button and comment down that you liked it. \n\n\nsource code: https://github.com/Hs809/Rode-Clone\nlive link: https://rode-clone-by-hitesh-pal.netlify.app/\n\nYou can also check out my blogs: https://hiteshpal.hashnode.dev/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "31",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rq-JwSxPHe8gEyEKvteUdsaSw_4",
+      "id": "I-ybrab-8NY",
+      "snippet": {
+        "publishedAt": "2022-08-28T13:31:58Z",
+        "channelId": "UCU3MN1JV8h7Bj5w0B03OswQ",
+        "title": "Paytm Clone Using HTML and Tailwind CSS | Tailwind CSS Assignment from @HiteshCodeLab",
+        "description": "I have created this Paytm Clone using HTML and Tailwind CSS.  I have resolved Paytm website issue i.e is responsive. As you explore the Paytm website you can check that their images are draggable and this happens when you directly put CDN URL to the image tag. I have resolved these issues in my Paytm Clone. \n\nIf you liked it clicked that like button and give me a repo start and comment down that you liked it. \n\n\nsource code: https://github.com/Hs809/Paytm-Clone-\nlive link: https://paytm-clone-by-hitesh-pal.netlify.app/\n\nYou can also check out my blogs: https://hiteshpal.hashnode.dev/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-ybrab-8NY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-ybrab-8NY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-ybrab-8NY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I-ybrab-8NY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I-ybrab-8NY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hitesh Pal",
+        "tags": [
+          "#iwritecode",
+          "#paytmclonne",
+          "#html",
+          "#tailwindcss"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Paytm Clone Using HTML and Tailwind CSS | Tailwind CSS Assignment from @HiteshCodeLab",
+          "description": "I have created this Paytm Clone using HTML and Tailwind CSS.  I have resolved Paytm website issue i.e is responsive. As you explore the Paytm website you can check that their images are draggable and this happens when you directly put CDN URL to the image tag. I have resolved these issues in my Paytm Clone. \n\nIf you liked it clicked that like button and give me a repo start and comment down that you liked it. \n\n\nsource code: https://github.com/Hs809/Paytm-Clone-\nlive link: https://paytm-clone-by-hitesh-pal.netlify.app/\n\nYou can also check out my blogs: https://hiteshpal.hashnode.dev/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "163",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-NClvNMGJmHHz8-k7f52AG_Xv-s",
+      "id": "WOqXobd7B4c",
+      "snippet": {
+        "publishedAt": "2021-05-30T06:42:05Z",
+        "channelId": "UCU3MN1JV8h7Bj5w0B03OswQ",
+        "title": "Ghoomo",
+        "description": "Ghoomo - Explore India in a Fun and Engaging way",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WOqXobd7B4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WOqXobd7B4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WOqXobd7B4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WOqXobd7B4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WOqXobd7B4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hitesh Pal",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Ghoomo",
+          "description": "Ghoomo - Explore India in a Fun and Engaging way"
+        },
+        "defaultAudioLanguage": "en-IN"
+      },
+      "contentDetails": {
+        "duration": "PT2M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "info": {
+    "title": "Hitesh Pal",
+    "url": "https://www.youtube.com/@HiteshCodeLab"
+  },
+  "timestamp": "2025-04-09T12:52:18.141482"
+}

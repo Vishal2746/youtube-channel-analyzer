@@ -1,0 +1,249 @@
+{
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "pR-O-LKCEFJER6L9OdaaEFkQsAI",
+      "id": "0foZzv8uCR8",
+      "snippet": {
+        "publishedAt": "2025-03-21T21:29:37Z",
+        "channelId": "UCUORH7exy80f4vGCn4iPHpw",
+        "title": "How to Code a Snake Game in HTML, CSS and JavaScript \u2013 Full Tutorial @chaiaurcode @piyushgargdev",
+        "description": "This session was recorded live as part of the Chaicode Web Dev Cohort on our private Discord channel, where developers learn and collaborate in a supportive community. In this tutorial, we\u2019ll show you how to create a Snake Game using HTML, CSS, JavaScript, Canvas and Local Storage from scratch. Whether you're a beginner or an experienced coder, this step-by-step guide will walk you through all the essentials of building this classic game.\n\nLearn how to:\n\nSet up the game using HTML and CSS for layout and styling\n\nUse Canvas to draw the game elements and make the game interactive\n\nImplement JavaScript to bring the game mechanics to life\n\nSave and load high scores using Local Storage\n\nImplement user controls, game logic, and scoring features\n\nBy the end of this tutorial, you'll have a fully functional Snake Game with local storage to save your high scores, and you can play it directly in your browser!\n\n\ud83d\udd17 GitHub Repository: https://github.com/the-ajay-panigrahi/Snake-Khel\n\ud83c\udfae Live Demo: https://chaicode-snake-game.vercel.app/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0foZzv8uCR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0foZzv8uCR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0foZzv8uCR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0foZzv8uCR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0foZzv8uCR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ajay B Panigrahi",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to Code a Snake Game in HTML, CSS and JavaScript \u2013 Full Tutorial @chaiaurcode @piyushgargdev",
+          "description": "This session was recorded live as part of the Chaicode Web Dev Cohort on our private Discord channel, where developers learn and collaborate in a supportive community. In this tutorial, we\u2019ll show you how to create a Snake Game using HTML, CSS, JavaScript, Canvas and Local Storage from scratch. Whether you're a beginner or an experienced coder, this step-by-step guide will walk you through all the essentials of building this classic game.\n\nLearn how to:\n\nSet up the game using HTML and CSS for layout and styling\n\nUse Canvas to draw the game elements and make the game interactive\n\nImplement JavaScript to bring the game mechanics to life\n\nSave and load high scores using Local Storage\n\nImplement user controls, game logic, and scoring features\n\nBy the end of this tutorial, you'll have a fully functional Snake Game with local storage to save your high scores, and you can play it directly in your browser!\n\n\ud83d\udd17 GitHub Repository: https://github.com/the-ajay-panigrahi/Snake-Khel\n\ud83c\udfae Live Demo: https://chaicode-snake-game.vercel.app/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H16M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "249",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n_cFwY-l67q_-ewR1Ipe7MGikNM",
+      "id": "fqxqW3BFIXk",
+      "snippet": {
+        "publishedAt": "2025-03-18T20:36:35Z",
+        "channelId": "UCUORH7exy80f4vGCn4iPHpw",
+        "title": "JS Marathon - Day 2: Functions & More",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fqxqW3BFIXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fqxqW3BFIXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fqxqW3BFIXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fqxqW3BFIXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fqxqW3BFIXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ajay B Panigrahi",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JS Marathon - Day 2: Functions & More",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H50M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "187",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0oatMtTaNRb7A3zS9889iFSW-L4",
+      "id": "HjIDrjYqXLQ",
+      "snippet": {
+        "publishedAt": "2025-03-18T08:09:41Z",
+        "channelId": "UCUORH7exy80f4vGCn4iPHpw",
+        "title": "JS Marathon - Day 1: Introduction to JavaScript - Setting Up the Basics",
+        "description": "Welcome to Day 1 of the 10-day JavaScript Marathon! \n\nToday, we\u2019re covering the essentials that will lay the foundation for everything we\u2019ll build throughout the marathon. Here\u2019s what we\u2019ve covered so far:\n\nWhat is Programming and JavaScript? \u2013 An introduction to programming concepts and the role of JavaScript.\nBehind the Scenes of JS \u2013 Understanding how JavaScript works under the hood.\nVariables & Data Types \u2013 Exploring how we store and manage data in JavaScript.\nOperators \u2013 Getting familiar with mathematical and logical operators.\nType Casting & Coercion \u2013 How JavaScript handles type conversion, and the concept of automatic type coercion.\nConditionals \u2013 Using if, else, and switch to make decisions in your code.\nTruthy & Falsy Values \u2013 Understanding how JavaScript interprets values as truthy or falsy in conditionals.\nIterations \u2013 Learning about loops like for, while, and do-while.\n\nWe\u2019ve laid the groundwork for more advanced topics ahead, but these concepts are key to understanding how JavaScript works. Whether you're a beginner or brushing up on your skills, these will be crucial as we move forward.\n\n\ud83d\udd17 GitHub Link:\nhttps://github.com/the-ajay-panigrahi/JS-REVISION\n\n\ud83d\udd17 Eraser Link:\nhttps://app.eraser.io/workspace/63jbVFtVXWbuSmfNLY6n?origin=share",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HjIDrjYqXLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HjIDrjYqXLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HjIDrjYqXLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HjIDrjYqXLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HjIDrjYqXLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ajay B Panigrahi",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JS Marathon - Day 1: Introduction to JavaScript - Setting Up the Basics",
+          "description": "Welcome to Day 1 of the 10-day JavaScript Marathon! \n\nToday, we\u2019re covering the essentials that will lay the foundation for everything we\u2019ll build throughout the marathon. Here\u2019s what we\u2019ve covered so far:\n\nWhat is Programming and JavaScript? \u2013 An introduction to programming concepts and the role of JavaScript.\nBehind the Scenes of JS \u2013 Understanding how JavaScript works under the hood.\nVariables & Data Types \u2013 Exploring how we store and manage data in JavaScript.\nOperators \u2013 Getting familiar with mathematical and logical operators.\nType Casting & Coercion \u2013 How JavaScript handles type conversion, and the concept of automatic type coercion.\nConditionals \u2013 Using if, else, and switch to make decisions in your code.\nTruthy & Falsy Values \u2013 Understanding how JavaScript interprets values as truthy or falsy in conditionals.\nIterations \u2013 Learning about loops like for, while, and do-while.\n\nWe\u2019ve laid the groundwork for more advanced topics ahead, but these concepts are key to understanding how JavaScript works. Whether you're a beginner or brushing up on your skills, these will be crucial as we move forward.\n\n\ud83d\udd17 GitHub Link:\nhttps://github.com/the-ajay-panigrahi/JS-REVISION\n\n\ud83d\udd17 Eraser Link:\nhttps://app.eraser.io/workspace/63jbVFtVXWbuSmfNLY6n?origin=share"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H42M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "158",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U2WN_20q34T4tF-Rr9fGWTlT-Cc",
+      "id": "bdSORMJpV_4",
+      "snippet": {
+        "publishedAt": "2025-03-09T19:56:39Z",
+        "channelId": "UCUORH7exy80f4vGCn4iPHpw",
+        "title": "Pair Programming: Building a Kanban Board with HTML, CSS and JS @chaiaurcode  @piyushgargdev",
+        "description": "In this video, I walk through building a Kanban board using HTML, CSS and JavaScript with members of the Chai Code Web Dev Cohort. This session was streamed on our private Discord channel and is recorded for future reference.\n\nSource Code - https://github.com/the-ajay-panigrahi/chai-code-web-dev-cohort/tree/main/Week%2008/kanban-board-discord",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bdSORMJpV_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bdSORMJpV_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bdSORMJpV_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bdSORMJpV_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bdSORMJpV_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ajay B Panigrahi",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Pair Programming: Building a Kanban Board with HTML, CSS and JS @chaiaurcode  @piyushgargdev",
+          "description": "In this video, I walk through building a Kanban board using HTML, CSS and JavaScript with members of the Chai Code Web Dev Cohort. This session was streamed on our private Discord channel and is recorded for future reference.\n\nSource Code - https://github.com/the-ajay-panigrahi/chai-code-web-dev-cohort/tree/main/Week%2008/kanban-board-discord"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4H58M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "523",
+        "likeCount": "31",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    }
+  ],
+  "info": {
+    "title": "Ajay B Panigrahi",
+    "url": "https://www.youtube.com/@piyushgargdev"
+  },
+  "timestamp": "2025-04-09T13:40:21.354417"
+}

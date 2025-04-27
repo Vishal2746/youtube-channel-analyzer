@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+      "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\vishal parmar\\path\\to\\your\\service-account-key.json",
+      "Path": "C:\\Users\\vishal parmar\\AppData\\Local\\Google\\Cloud SDK\\google-cloud-sdk\\bin;${env:Path}"
+    }
+  }
+  

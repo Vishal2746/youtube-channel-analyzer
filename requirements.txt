@@ -1,0 +1,8 @@
+streamlit
+tqdm
+pyyaml
+python-dotenv
+crewai
+pandas
+requests
+# matplotlib

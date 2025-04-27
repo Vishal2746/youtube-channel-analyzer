@@ -1,0 +1,34 @@
+agents:
+- role: "YouTube Content Analyzer"
+  goal: "Perform comprehensive analysis of YouTube video data to identify trends, patterns, and actionable insights"
+  backstory: "Expert in social media analytics, specializing in detailed metric analysis and content strategy"
+  model: "gemini-pro"
+
+- role: "Report Synthesizer"
+  goal: "Create detailed, data-driven reports from YouTube analysis"
+  backstory: "Data visualization expert skilled in presenting complex analytics in clear, actionable formats"
+  model: "gemini-pro"
+
+tasks:
+- description: "Analyze YouTube video data comprehensively, including:
+  - View count trends and patterns
+  - Engagement metrics (likes, comments, ratios)
+  - Performance over time
+  - Content correlation analysis
+  - Audience behavior patterns"
+  expected_output: "Detailed analysis including:
+  - Top performing content identification
+  - Engagement rate analysis
+  - Temporal trends
+  - Content strategy recommendations
+  - Specific metrics and supporting data"
+
+- description: "Create a comprehensive report synthesizing the analysis findings into actionable insights"
+  expected_output: "Structured report containing:
+  - Executive summary
+  - Key findings with supporting data
+  - Trend analysis
+  - Performance metrics
+  - Strategic recommendations
+  - Visual data representations
+  Maximum 1000 words with clear sections"

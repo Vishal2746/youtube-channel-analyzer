@@ -1,0 +1,379 @@
+{
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "vFqO9IyX1rCKs4Wicx7aIJDKi5I",
+      "id": "qHx5LN9ZJvs",
+      "snippet": {
+        "publishedAt": "2025-04-08T13:48:53Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "My next Course Announcement - Namaste DSA? \ud83d\ude80",
+        "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qHx5LN9ZJvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qHx5LN9ZJvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qHx5LN9ZJvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qHx5LN9ZJvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qHx5LN9ZJvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "tags": [
+          "akshaysaini.in",
+          "akshay saini javascript",
+          "akshay saini web engineer",
+          "akshay saini uber",
+          "akshay saini frontend",
+          "javascript tutorials",
+          "javascript interview questions",
+          "frontend interview questions",
+          "frontend tutorials",
+          "javascript fundamentals",
+          "akshay saini js"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "My next Course Announcement - Namaste DSA? \ud83d\ude80",
+          "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29656",
+        "likeCount": "1971",
+        "favoriteCount": "0",
+        "commentCount": "327"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7w4qdZhq4qPvtQ0E-G4sGWOhGYY",
+      "id": "yitelFyogRk",
+      "snippet": {
+        "publishedAt": "2025-04-04T13:43:56Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Nested Checkboxes (Amazon, Flipkart) - Machine Coding Interview using React [HARD]",
+        "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yitelFyogRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yitelFyogRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yitelFyogRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yitelFyogRk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yitelFyogRk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "tags": [
+          "akshaysaini.in",
+          "akshay saini javascript",
+          "akshay saini web engineer",
+          "akshay saini uber",
+          "akshay saini frontend",
+          "javascript tutorials",
+          "javascript interview questions",
+          "frontend interview questions",
+          "frontend tutorials",
+          "javascript fundamentals",
+          "akshay saini js"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nested Checkboxes (Amazon, Flipkart) - Machine Coding Interview using React [HARD]",
+          "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H3M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12026",
+        "likeCount": "481",
+        "favoriteCount": "0",
+        "commentCount": "99"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nlthuf_yK_yKAIWMG5VdHdrmQRA",
+      "id": "usVdJONI99k",
+      "snippet": {
+        "publishedAt": "2025-03-26T13:30:42Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "OTP Input (Flipkart, Swiggy, Myntra) -  Machine Coding Interview using React",
+        "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/usVdJONI99k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/usVdJONI99k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/usVdJONI99k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/usVdJONI99k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/usVdJONI99k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "tags": [
+          "akshaysaini.in",
+          "akshay saini javascript",
+          "akshay saini web engineer",
+          "akshay saini uber",
+          "akshay saini frontend",
+          "javascript tutorials",
+          "javascript interview questions",
+          "frontend interview questions",
+          "frontend tutorials",
+          "javascript fundamentals",
+          "akshay saini js"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OTP Input (Flipkart, Swiggy, Myntra) -  Machine Coding Interview using React",
+          "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT42M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "28784",
+        "likeCount": "1188",
+        "favoriteCount": "0",
+        "commentCount": "134"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s_cjEuf_43GVjGKL1IsCJm4nFGk",
+      "id": "4CWbes7wPVQ",
+      "snippet": {
+        "publishedAt": "2025-03-18T13:44:06Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Why I stopped teaching Live and moved 100% to recorded courses",
+        "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CWbes7wPVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CWbes7wPVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CWbes7wPVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CWbes7wPVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CWbes7wPVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "tags": [
+          "akshaysaini.in",
+          "akshay saini javascript",
+          "akshay saini web engineer",
+          "akshay saini uber",
+          "akshay saini frontend",
+          "javascript tutorials",
+          "javascript interview questions",
+          "frontend interview questions",
+          "frontend tutorials",
+          "javascript fundamentals",
+          "akshay saini js"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why I stopped teaching Live and moved 100% to recorded courses",
+          "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7308",
+        "likeCount": "225",
+        "favoriteCount": "0",
+        "commentCount": "44"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8NWqjReFqqeinuuyUfh8vDCe_lE",
+      "id": "wweHbXrJkUY",
+      "snippet": {
+        "publishedAt": "2025-03-10T14:30:39Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Cracking Frontend Interview - Goldman Sachs (Questions & Preparation Strategy)",
+        "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wweHbXrJkUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wweHbXrJkUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wweHbXrJkUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wweHbXrJkUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wweHbXrJkUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "tags": [
+          "akshaysaini.in",
+          "akshay saini javascript",
+          "akshay saini web engineer",
+          "akshay saini uber",
+          "akshay saini frontend",
+          "javascript tutorials",
+          "javascript interview questions",
+          "frontend interview questions",
+          "frontend tutorials",
+          "javascript fundamentals",
+          "akshay saini js"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cracking Frontend Interview - Goldman Sachs (Questions & Preparation Strategy)",
+          "description": "Want to study from my in-depth courses? \n\u25b6\ufe0f Namaste JavaScript  - https://namastedev.com/learn/namaste-javascript\n\u25b6\ufe0f Namaste React - https://namastedev.com/learn/namaste-react\n\u25b6\ufe0f Namaste NodeJS - https://namastedev.com/learn/namaste-node\n\u25b6\ufe0f Namaste Frontend System Design - https://namastedev.com/learn/namaste-frontend-system-design\nWe are currently running offers on all our courses, click the links above and don't forget to add coupon code while making payments. You'll find the best coupon codes available at the top banner on our website. \ud83d\ude80\n\nIf you like my videos, then do give me a shoutout over LinkedIn, X(Twitter) or any social media you're active on. \nDo tag me, I would love to read your posts!\n\nThank you for your love and support. \n\nWish you the best in your career, keep rising! \ud83d\ude80\n\n- Akshay Saini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT53M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18531",
+        "likeCount": "629",
+        "favoriteCount": "0",
+        "commentCount": "83"
+      }
+    }
+  ],
+  "info": {
+    "title": "Akshay Saini",
+    "url": "https://www.youtube.com/@akshaymarch7"
+  },
+  "timestamp": "2025-04-09T13:37:16.883867"
+}
