@@ -1,8 +1,27 @@
-streamlit
-tqdm
-pyyaml
-python-dotenv
-crewai
-pandas
-requests
-# matplotlib
+# Core dependencies
+streamlit==1.31.1
+google-api-python-client==2.114.0
+google-auth==2.27.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+python-dotenv==1.0.1
+pandas==2.2.0
+plotly==5.18.0
+fpdf2==2.7.8
+matplotlib==3.8.2
+numpy==1.26.3
+transformers==4.37.2
+torch==2.2.0
+google-generativeai==0.3.2
+python-dateutil==2.8.2
+backoff==2.2.1
+
+# ML dependencies (at least one is required)
+# tensorflow>=2.0.0  # Uncomment if you prefer TensorFlow instead of PyTorch
+nltk>=3.8.1
+
+# Additional utilities
+requests>=2.28.2
+
+# Optional: for better performance
+tqdm>=4.65.0
