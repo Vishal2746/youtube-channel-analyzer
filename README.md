@@ -1,59 +1,100 @@
-# YouTube Trend Analysis with CrewAI and BrightData
+# YouTube Channel Analyzer
 
-This project implements a YouTube Trend Analysis with CrewAI and BrightData.
-- [Bright Data](https://brdta.com/dailydoseofds) is used to scrape YouTube videos.
-- CrewAI is used to analyze the transcripts of the videos and generate a summary.
-- Streamlit is used to create a web interface for the project.
+A powerful tool for analyzing YouTube channels using YouTube Data API, sentiment analysis, and Google's Gemini AI for enhanced insights.
 
+## Features
 
----
-## Setup and installations
+- Channel performance analysis
+- Multi-channel comparison
+- Sentiment analysis of comments
+- AI-powered content insights using Google's Gemini
+- Detailed PDF report generation
+- Interactive visualizations
+- Date range filtering
+- Customizable analysis options
 
-**Get BrightData API Key**:
-- Go to [Bright Data](https://brdta.com/dailydoseofds) and sign up for an account.
-- Once you have an account, go to the API Key page and copy your API key.
-- Paste your API key by creating a `.env` file as follows:
+## Setup
 
+1. Clone the repository:
+```bash
+git clone https://github.com/Vishal2746/youtube-channel-analyzer.git
+cd youtube-channel-analyzer
 ```
-BRIGHT_DATA_API_KEY=your_api_key
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
 ```
 
-**Setup Ollama**:
-   ```bash
-   # setup ollama on linux 
-   curl -fsSL https://ollama.com/install.sh | sh
-   # pull llama 3.2 model
-   ollama pull llama3.2 
-   ```
+3. Set up environment variables:
+Create a `.env` file in the project root with:
+```env
+YOUTUBE_API_KEY=your_youtube_api_key
+GEMINI_API_KEY=your_gemini_api_key
+```
 
+## Usage
 
-**Install Dependencies**:
-   Ensure you have Python 3.11 or later installed.
-   ```bash
-   pip install streamlit ollama crewai crewai-tools
-   ```
-
----
-
-## Run the project
-
-Finally, run the project by running the following command:
-
+1. Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
 
+2. Enter YouTube channel URLs (one per line)
+3. Select date range and analysis options
+4. Click "Analyze" to start the analysis
 
+## Analysis Types
 
----
+1. **Channel Summary**: Basic metrics and AI-powered analysis
+2. **Comment Analysis**: Sentiment analysis of comments
+3. **Complete Analysis**: Full analysis including both metrics and sentiment
 
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
+## Requirements
 
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
+- Python 3.8+
+- YouTube Data API v3 key
+- Google Gemini API key
+- Required Python packages (see requirements.txt)
 
----
+## Deployment
 
-## Contribution
+The app can be deployed on Streamlit Cloud:
 
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+1. Push code to GitHub
+2. Connect your GitHub repo to Streamlit Cloud
+3. Add environment variables in Streamlit Cloud settings
+4. Deploy!
+
+## File Structure
+
+```
+youtube-channel-analyzer/
+├── app.py                     # Main Streamlit application
+├── youtube_analyzer.py        # YouTube data fetching and analysis
+├── ml_model.py               # ML model for sentiment analysis
+├── detailed_report_generator.py # PDF report generation
+├── cache_manager.py          # Caching system
+├── requirements.txt          # Python dependencies
+├── .env                      # Environment variables (local only)
+└── README.md                 # Project documentation
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## License
+
+MIT License - feel free to use this project for any purpose.
+
+## Acknowledgments
+
+- YouTube Data API
+- Google Gemini AI
+- Hugging Face Transformers
+- Streamlit
